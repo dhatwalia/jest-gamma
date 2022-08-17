@@ -21,5 +21,9 @@ Seeds the project.
 
 Runs the project.
 
+### `npm test`
+
+Tests the project.
+
 ### `brew services stop mongodb-community@6.0`
 Stops MongoDB running as a macOS service.
